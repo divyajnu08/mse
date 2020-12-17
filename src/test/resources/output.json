@@ -1,0 +1,126 @@
+[[
+        {
+            "id": 22,
+            "name": "Bethel University",
+            "grants": 49990.0,
+            "grants_breakdown": [
+                {
+                    "key": "Merit Grant",
+                    "value": "17200.0"
+                },
+                {
+                    "key": "Royal Merit Scholarship Qualification",
+                    "value": "0.0"
+                },
+                {
+                    "key": "NMSP Finalist Award",
+                    "value": "35000.0"
+                }
+            ],
+            "deadline": null,
+            "applyURL": "https://www.bethel.edu/admissions/apply/"
+        },
+        {
+            "id": 25,
+            "name": "University of Minnesota - Morris",
+            "grants": 17324.0,
+            "grants_breakdown": [
+                {
+                    "key": "Merit Grant",
+                    "value": "5000.0"
+                },
+                {
+                    "key": "NMSP Achievement Award",
+                    "value": "4000.0"
+                },
+                {
+                    "key": "NMSP Winner Award",
+                    "value": "12324.0"
+                }
+            ],
+            "deadline": null,
+            "applyURL": "https://www.uminnesotamorris.org/application/splitter.htm"
+        },
+        {
+            "id": 30,
+            "name": "University of Northwestern - St. Paul",
+            "grants": 13000.0,
+            "grants_breakdown": [
+                {
+                    "key": "Merit Grant",
+                    "value": "11000.0"
+                },
+                {
+                    "key": "Alumni Scholarship",
+                    "value": "1000.0"
+                },
+                {
+                    "key": "Christian Worker Scholarship",
+                    "value": "1000.0"
+                }
+            ],
+            "deadline": null,
+            "applyURL": "https://www.unwsp.edu/admissions/apply"
+        }
+],
+[],
+[],
+[],
+[],
+[
+        {
+            "id": 22,
+            "name": "Bethel University",
+            "grants": 17200.0,
+            "grants_breakdown": [
+                {
+                    "key": "Merit Grant",
+                    "value": "17200.0"
+                },
+                {
+                    "key": "Royal Merit Scholarship Qualification",
+                    "value": "0.0"
+                }
+            ],
+            "deadline": null,
+            "applyURL": "https://www.bethel.edu/admissions/apply/"
+        },
+        {
+            "id": 25,
+            "name": "University of Minnesota - Morris",
+            "grants": 17324.0,
+            "grants_breakdown": [
+                {
+                    "key": "Merit Grant",
+                    "value": "5000.0"
+                },
+                {
+                    "key": "NMSP Winner Award",
+                    "value": "12324.0"
+                }
+            ],
+            "deadline": null,
+            "applyURL": "https://www.uminnesotamorris.org/application/splitter.htm"
+        },
+        {
+            "id": 30,
+            "name": "University of Northwestern - St. Paul",
+            "grants": 13000.0,
+            "grants_breakdown": [
+                {
+                    "key": "Merit Grant",
+                    "value": "11000.0"
+                },
+                {
+                    "key": "Alumni Scholarship",
+                    "value": "1000.0"
+                },
+                {
+                    "key": "Christian Worker Scholarship",
+                    "value": "1000.0"
+                }
+            ],
+            "deadline": null,
+            "applyURL": "https://www.unwsp.edu/admissions/apply"
+        }
+ ]]

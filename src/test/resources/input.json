@@ -1,0 +1,136 @@
+[
+{
+"basicInfo":{
+	"city": "kanpur",
+	"email": "test@test.com",
+	"state": "MN",
+	"ethnicity": ["ASIAN","BLACK"],
+	"federalFinancialAid" : "yes",
+	"efc": "6345"
+},
+"addtnInfo":{
+	"enrollmentYear": "2021-2022",
+	"fieldOfStudy": ["Computer Science","Mathematics","Physics"],
+	"sportingInterests": "true",
+	"score_type": "ACT",
+	"score": "31",
+	"gpa": "3.5"
+},
+"choiceInfo":{
+	"customers":{
+	 "22":[{"key":50,"value":"YES"},{"key":25,"value":"YES"}],
+     "25":[{"key":30,"value":"YES"},{"key":31,"value":"YES"}],
+     "30":[{"key":40,"value":"YES"},{"key":41,"value":"YES"}]
+	 }
+}},
+{
+"basicInfo":{
+	"city": "kanpur",
+	"email": "test@test.com",
+	"state": "MN",
+	"ethnicity": ["ASIAN","BLACK"],
+	"federalFinancialAid" : "yes",
+	"efc": "6345"
+},
+"addtnInfo":{
+	"enrollmentYear": "2021-2022",
+	"fieldOfStudy": ["Computer Science","Mathematics","Physics"],
+	"sportingInterests": "true",
+	"score_type": "ACT",
+	"score": "31",
+	"gpa": "3.5"
+},
+"choiceInfo":{
+	"customers":null
+}},
+{
+"basicInfo":{
+	"city": "kanpur",
+	"email": "test@test.com",
+	"state": "MN",
+	"ethnicity": ["ASIAN","BLACK"],
+	"federalFinancialAid" : "yes",
+	"efc": "6345"
+},
+"addtnInfo":{
+	"enrollmentYear": "2021-2022",
+	"fieldOfStudy": ["Computer Science","Mathematics","Physics"],
+	"sportingInterests": "true",
+	"score_type": "ACT",
+	"score": "31",
+	"gpa": "3.5"
+},
+"choiceInfo":{
+	"customers":{
+	 "-1":[{"key":50,"value":"YES"},{"key":25,"value":"YES"}]
+	 }
+}},
+{
+"basicInfo":{
+	"city": "kanpur",
+	"email": "test@test.com",
+	"state": "MN",
+	"ethnicity": ["ASIAN","BLACK"],
+	"federalFinancialAid" : "no",
+	"efc": "6345"
+},
+"addtnInfo":{
+	"enrollmentYear": "2021-2022",
+	"fieldOfStudy": ["Computer Science","Mathematics","Physics"],
+	"sportingInterests": "true",
+	"score_type": "ACT",
+	"score": "31",
+	"gpa": "3.5"
+},
+"choiceInfo":{
+	"customers":{
+	 "22":[{"key":50,"value":"YES"},{"key":25,"value":"YES"}]
+	 }
+}},
+{
+"basicInfo":{
+	"city": "kanpur",
+	"email": "test@test.com",
+	"state": "MN",
+	"ethnicity": ["ASIAN","BLACK"],
+	"federalFinancialAid" : "no",
+	"efc": "6345"
+},
+"addtnInfo":{
+	"enrollmentYear": "2021-2022",
+	"fieldOfStudy": ["Computer Science","Mathematics","Physics"],
+	"sportingInterests": "true",
+	"score_type": "ACT",
+	"score": "31",
+	"gpa": "3.5"
+},
+"choiceInfo":{
+	"customers":{
+	 "22":[]
+	 }
+}},
+{
+"basicInfo":{
+	"city": "kanpur",
+	"email": "test@test.com",
+	"state": "MN",
+	"ethnicity": ["ASIAN","BLACK"],
+	"federalFinancialAid" : "yes",
+	"efc": "6345"
+},
+"addtnInfo":{
+	"enrollmentYear": "2021-2022",
+	"fieldOfStudy": ["Computer Science","Mathematics","Physics"],
+	"sportingInterests": "true",
+	"score_type": "ACT",
+	"score": "31",
+	"gpa": "3.5"
+},
+"choiceInfo":{
+	"customers":{
+	 "22":[{"key":50,"value":"YES"},{"key":25,"value":"NO"}],
+     "25":[{"key":32,"value":"YES"},{"key":31,"value":"YES"}],
+     "30":[{"key":40,"value":"YES"},{"key":41,"value":"YES"}]
+	 }
+}}
+]
